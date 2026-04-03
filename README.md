@@ -12,10 +12,10 @@ Pythonで作成したターミナル型のメモアプリです。
 - 並び替え
 
 ## 使用技術
-- python
+- Python
 
 ## 実行方法
-- python app.py
+- Python app.py
 
 ## 保存ファイル
 - memo.txt
