@@ -12,7 +12,7 @@ Pythonで作成したターミナル型のメモアプリです。
 - 並び替え
 
 ## 使用技術
-- Python
+- python
 
 ## 実行方法
 - python app.py
